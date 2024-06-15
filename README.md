@@ -30,9 +30,11 @@ pip install peft
 
 ### 2. 準備模型權重
 
+至 TAIDE 官方 Hugging Face(https://huggingface.co/taide/TAIDE-LX-7B-Chat) 申請下載權重
 將下載好的模型權重和 tokenizer 放入到 `model_weight` 資料夾中
 
 
 ### 3. 執行demo
 
 ```python main.py```
+
