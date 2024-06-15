@@ -1,0 +1,459 @@
+A0_id,B0_id,A1_id,A_dialog_0,A_sentiment_0,B_dialog_0,A_dialog_1,A_sentiment_1
+4,5,6,You’re a genius!,positive,"Aww, man, now we won’t be bank buddies!","Now, there’s two reasons.",neutral
+7,8,9,Hey.,neutral,Hey!,"Ohh, you guys, remember that cute client I told you about? I bit him.",neutral
+9,10,11,"Ohh, you guys, remember that cute client I told you about? I bit him.",neutral,Where?!,On the touchy.,neutral
+11,12,13,On the touchy.,neutral,And,"No, I know!",negative
+16,17,18,Yeah! Yeah! Yeah! Like-like when I’m doing something exciting and I don’t wanna get,positive,"Thank you, Joey.","No-no, thank you.",neutral
+19,20,21,"Hey Estelle, listen",neutral,Well! Well! Well! Joey Tribbiani! So you came back huh? They,What are you talkin’ about? I never left you! You’ve always been my agent!,negative
+20,21,22,Well! Well! Well! Joey Tribbiani! So you came back huh? They,positive,What are you talkin’ about? I never left you! You’ve always been my agent!,Really?!,positive
+21,22,23,What are you talkin’ about? I never left you! You’ve always been my agent!,negative,Really?!,Yeah!,positive
+22,23,24,Really?!,positive,Yeah!,"Oh well, no harm, no foul.",neutral
+26,27,28,Yeah!!,positive,Tonight? You-you didn't say it was going to be at nighttime.,Yes? Yes?! How can I help you?,neutral
+28,29,30,Yes? Yes?! How can I help you?,neutral,"Yeah, we were…we were just looking around.","Oh-oh, you’re-you’re fellow scholars.",negative
+32,33,34,"Perhaps,  perhaps Dr. Chester Stock’s musings on the Smiledon Californicus?",neutral,Uhh….,"Ah… Ah…Get out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marion’s views on evolution?",negative
+34,35,36,"Ah… Ah…Get out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marion’s views on evolution?",negative,"Uh, actually I find Marion’s views far too progressionist.",I find Marion’s views far too progressionist.,neutral
+35,36,37,"Uh, actually I find Marion’s views far too progressionist.",neutral,I find Marion’s views far too progressionist.,"I’m sorry, who are you?",positive
+36,37,38,I find Marion’s views far too progressionist.,neutral,"I’m sorry, who are you?","I’m a professor here uh, Ross…Geller.",neutral
+37,38,39,"I’m sorry, who are you?",positive,"I’m a professor here uh, Ross…Geller.","Ross Geller, why do I know that name? It’s uh—Wait!  Did you write this?",positive
+38,39,40,"I’m a professor here uh, Ross…Geller.",neutral,"Ross Geller, why do I know that name? It’s uh—Wait!  Did you write this?",Yes! You’re the person who checked out my book?!,positive
+39,40,41,"Ross Geller, why do I know that name? It’s uh—Wait!  Did you write this?",positive,Yes! You’re the person who checked out my book?!,"Y’know, you look nothing like I would’ve thought. You’re…you’re so young.",positive
+40,41,42,Yes! You’re the person who checked out my book?!,positive,"Y’know, you look nothing like I would’ve thought. You’re…you’re so young.","Well I uh, I skipped forth grade.",neutral
+43,44,45,You had no right to tell me you ever had feelings for me.,negative,What?,I was doing great with Julie before I found out about you.,negative
+44,45,46,What?,negative,I was doing great with Julie before I found out about you.,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",negative
+45,46,47,I was doing great with Julie before I found out about you.,negative,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",The point is I...,negative
+50,51,52,This ship has sailed.,negative,"Alright, fine, you go ahead and you do that, alright Ross.",Fine.,negative
+51,52,53,"Alright, fine, you go ahead and you do that, alright Ross.",negative,Fine.,Cause I don't need your stupid ship.,negative
+52,53,54,Fine.,negative,Cause I don't need your stupid ship.,Good.,negative
+53,54,55,Cause I don't need your stupid ship.,negative,Good.,Good.,negative
+56,57,58,"Oh, it's so romantic to send people off on their honeymoon.",positive,"Y’know, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.",All in good time my love.,neutral
+62,63,64,Well you can let me in later.,neutral,"I don’t have a key, they took mine to give to you.",What?! They took mine to give to you!,negative
+63,64,65,"I don’t have a key, they took mine to give to you.",neutral,What?! They took mine to give to you!,Why would they take away our keys?,negative
+66,67,68,Wow! It looks like we got a lot of good stuff.,positive,"Oh we did, but my mom got us the greatest gift of all.",A,neutral
+67,68,69,"Oh we did, but my mom got us the greatest gift of all.",positive,A,No. She’s going to live with us for eight weeks.,neutral
+68,69,70,A,neutral,No. She’s going to live with us for eight weeks.,"Uh, what?",positive
+69,70,71,No. She’s going to live with us for eight weeks.,neutral,"Uh, what?",Yes! She’s gonna help us take care of the baby! Woo-hoo.,positive
+70,71,72,"Uh, what?",positive,Yes! She’s gonna help us take care of the baby! Woo-hoo.,What—You’re not serious.,negative
+74,75,76,She’ll drive us totally crazy.,negative,Hi Ross!,Hi roomie!,positive
+82,83,84,And the nudity is really important to the story.,neutral,That’s what you say about porn.,You’re right. Maybe I shouldn’t even go on the call back.,neutral
+83,84,85,That’s what you say about porn.,neutral,You’re right. Maybe I shouldn’t even go on the call back.,"No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!",positive
+84,85,86,You’re right. Maybe I shouldn’t even go on the call back.,neutral,"No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!",Well that’s true.,neutral
+93,94,95,"Hey, what’s up?",neutral,"Nothing, Monica and I had a stupid fight.","But you’re still moving in together, right? Because my ad came out today.",neutral
+94,95,96,"Nothing, Monica and I had a stupid fight.",negative,"But you’re still moving in together, right? Because my ad came out today.","""Wanted. Female roommate, non-smoker, non-ugly."" Nice!",positive
+95,96,97,"But you’re still moving in together, right? Because my ad came out today.",neutral,"""Wanted. Female roommate, non-smoker, non-ugly."" Nice!",Yeah?,neutral
+106,107,108,"Yeah, no one talks like that!",negative,Oh what? Like your Mr. Cop!,"Hey, I'm more cop than you two!",negative
+108,109,110,"Hey, I'm more cop than you two!",negative,How do you figure that?,"Hello! I'm in the front seat, okay? I'm Gary's partner!",neutral
+111,112,113,I guess so.,neutral,Here you go. Thank you!,"Wait, Rach! Where's the other one?",neutral
+112,113,114,Here you go. Thank you!,neutral,"Wait, Rach! Where's the other one?","Oh what, you-you want both of them?",positive
+113,114,115,"Wait, Rach! Where's the other one?",neutral,"Oh what, you-you want both of them?","Rachel Karen Green, where's the other earring?!",negative
+114,115,116,"Oh what, you-you want both of them?",positive,"Rachel Karen Green, where's the other earring?!","Okay, okay, okay, look, just don't freak out, but I kinda lost it.",negative
+117,118,119,"I know it's in the apartment, but I",neutral,"Well, what am I going to tell Monica? She wants to wear them tonight!",Tell her to wear her own earrings.,negative
+118,119,120,"Well, what am I going to tell Monica? She wants to wear them tonight!",negative,Tell her to wear her own earrings.,These,neutral
+119,120,121,Tell her to wear her own earrings.,negative,These,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!,negative
+120,121,122,These,neutral,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!,Why not?,neutral
+121,122,123,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!,negative,Why not?,Because I lose her stuff!,negative
+129,130,131,What’s going on?,neutral,Chandler’s gone again!,Oh my God! Why would you play hide and seek with someone you know is a flight risk?!,negative
+131,132,133,Oh my God! Why would you play hide and seek with someone you know is a flight risk?!,negative,Okay. You ready to push again?,I already had a baby. Leave me alone.,negative
+140,141,142,"Come on little Chandler, it's time to be born. Come on little Chandler! Come on!",positive,"All right, he's coming. He's coming!","Hey, where's his thing?",negative
+143,144,145,Chandler's a girl!,positive,"Oh God, kindergarten flashback.",They musta read the sonogram wrong.,negative
+149,150,151,Am I too late?!,neutral,"No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",We have our babies?,positive
+150,151,152,"No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",positive,We have our babies?,Yeah.,positive
+151,152,153,We have our babies?,positive,Yeah.,"Oh, we have our babies.",positive
+154,155,156,Hey Toby!,positive,Hey Bobby.,"It’s Bob actually. Hey, you work up here, can you tell me where this Chandler",neutral
+155,156,157,Hey Bobby.,neutral,"It’s Bob actually. Hey, you work up here, can you tell me where this Chandler","Uhh yeah. Yeah, it’s  right, right down there.  Right there, yeah. Can I ask you why?",neutral
+156,157,158,"It’s Bob actually. Hey, you work up here, can you tell me where this Chandler",neutral,"Uhh yeah. Yeah, it’s  right, right down there.  Right there, yeah. Can I ask you why?","I want to talk to that bastard, see what his problem is.",negative
+157,158,159,"Uhh yeah. Yeah, it’s  right, right down there.  Right there, yeah. Can I ask you why?",neutral,"I want to talk to that bastard, see what his problem is.","Okay Bob listen uhh, I’m the reason you didn’t get the job up here.",negative
+158,159,160,"I want to talk to that bastard, see what his problem is.",negative,"Okay Bob listen uhh, I’m the reason you didn’t get the job up here.",Toby don’t.,negative
+159,160,161,"Okay Bob listen uhh, I’m the reason you didn’t get the job up here.",negative,Toby don’t.,Bob!,negative
+160,161,162,Toby don’t.,negative,Bob!,Toby! I’m not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!,negative
+164,165,166,Thank you.  Oh Joey and look at this crib! It’s so cute!,positive,I know! I found it on the street.,Are you serious—Really?! It’s in such good condition.,positive
+165,166,167,I know! I found it on the street.,positive,Are you serious—Really?! It’s in such good condition.,Yeah.,neutral
+166,167,168,Are you serious—Really?! It’s in such good condition.,positive,Yeah.,Wow! Whoa-whoa what’s under the covers?,negative
+167,168,169,Yeah.,neutral,Wow! Whoa-whoa what’s under the covers?,I don’t know.,neutral
+168,169,170,Wow! Whoa-whoa what’s under the covers?,negative,I don’t know.,It’s moving.,negative
+169,170,171,I don’t know.,neutral,It’s moving.,Ew.,negative
+170,171,172,It’s moving.,negative,Ew.,It’s still——It’s got a tail! Get it out of here! Get it out of here!!,negative
+171,172,173,Ew.,negative,It’s still——It’s got a tail! Get it out of here! Get it out of here!!,Ooh! Ah! Okay!,negative
+175,176,177,we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So,negative,Oh just say it Kyle!,We’re gonna give it another try.,positive
+178,179,180,What about her whining and her constant need for attention?!,negative,I’m gonna work on that.,"Oh right, because you’re so capable of change.",negative
+181,182,183,"Y’know, he hums when he pees!",negative,I do know.,"It makes him miss the bowl, but whatever.",negative
+182,183,184,I do know.,neutral,"It makes him miss the bowl, but whatever.",We’re so sorry.,negative
+183,184,185,"It makes him miss the bowl, but whatever.",negative,We’re so sorry.,"That’s all right, we-we don’t need you. In fact, hey I’m over it already.",negative
+188,189,190,"I’m sorry. Ugh, Pheebs, you were, you were right about her. Y’know, she",negative,"Oh. Y’know, he hums while he does other stuff to.","Yeah, we're better off without them.",negative
+189,190,191,"Oh. Y’know, he hums while he does other stuff to.",neutral,"Yeah, we're better off without them.","And y’know, even if they break up again, you’d better not let him in your sad men’s club!",negative
+190,191,192,"Yeah, we're better off without them.",negative,"And y’know, even if they break up again, you’d better not let him in your sad men’s club!",Divorced men’s club.,negative
+197,198,199,This is totally your fault!,negative,My fault?! You threatened the judge!,"Well, you ripped the paper out of the court reporter’s machine!!",negative
+206,207,208,Phoebe!,neutral,Yeah?,Have you seen Chandler?!,neutral
+207,208,209,Yeah?,neutral,Have you seen Chandler?!,No! Why?,neutral
+208,209,210,Have you seen Chandler?!,neutral,No! Why?,The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!,negative
+212,214,215,How bad is this?,negative,"Well for the regular guy, it’s bad, but Chandler, Oh dear God!",I know! I know! And he totally freaked out and I can’t find him anywhere!,negative
+214,215,216,"Well for the regular guy, it’s bad, but Chandler, Oh dear God!",negative,I know! I know! And he totally freaked out and I can’t find him anywhere!,What are you gonna do?,neutral
+215,216,217,I know! I know! And he totally freaked out and I can’t find him anywhere!,negative,What are you gonna do?,"Well, I’m never gonna listen to you again, that’s for sure!",negative
+218,219,220,"""Y’know, harm can it do if you go and put your name down?""",neutral,Rachel said that!,Well Rachel’s not here!,negative
+225,226,227,"My son is being born, and I should be in there, you know, instead of stuck in a closet with you.",negative,The woman I love is having a baby today. I've been waiting for this just as much as you have.,"No no no, believe me.",negative
+236,237,238,Every day is Lesbian Lover Day.,neutral,This is so great.,You wanna explain that?,neutral
+237,238,239,This is so great.,positive,You wanna explain that?,"I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.",negative
+245,246,247,"Hi, how are you doing Kelly?",neutral,"I'm doing just fine! God, Tiffany, you smell so great!",It's my new perfume. Why don't you come closer where you can,neutral
+246,247,248,"I'm doing just fine! God, Tiffany, you smell so great!",positive,It's my new perfume. Why don't you come closer where you can,"Oh, y'know Joey, you are sick!",negative
+247,248,249,It's my new perfume. Why don't you come closer where you can,neutral,"Oh, y'know Joey, you are sick!",This is disgusting!,negative
+248,249,250,"Oh, y'know Joey, you are sick!",negative,This is disgusting!,I'm not reading this!,negative
+256,257,258,"Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.",neutral,Hi. Hi.,What are you doing here?,positive
+264,265,266,That she left you for another woman that likes women?,neutral,"Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",Then what?,neutral
+265,266,267,"Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",negative,Then what?,My first time with Carol was...,neutral
+267,268,269,My first time with Carol was...,neutral,What?,It was my,neutral
+268,269,270,What?,neutral,It was my,With Carol?  Oh.,negative
+270,271,272,With Carol?  Oh.,negative,"So in your whole life, you've only been with one——oh.","Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!",negative
+273,274,275,Hi. Where is everybody?,neutral,"Oh, it’s already closed, Chris gave me the keys to lock up-what is wrong?","My marriage, I think my marriage is um, is kinda over.",negative
+274,275,276,"Oh, it’s already closed, Chris gave me the keys to lock up-what is wrong?",negative,"My marriage, I think my marriage is um, is kinda over.",Oh no! Why?,negative
+275,276,277,"My marriage, I think my marriage is um, is kinda over.",negative,Oh no! Why?,"‘Cause Carol’s a lesbian.  And, and I’m not one. And apparently it’s not a mix and match situation.",negative
+276,277,278,Oh no! Why?,negative,"‘Cause Carol’s a lesbian.  And, and I’m not one. And apparently it’s not a mix and match situation.","Oh my God! I don’t believe it! Oh, you poor bunny.",negative
+277,278,279,"‘Cause Carol’s a lesbian.  And, and I’m not one. And apparently it’s not a mix and match situation.",negative,"Oh my God! I don’t believe it! Oh, you poor bunny.",I’m an idiot.,negative
+280,281,282,"I mean shoulda seen it, I mean Carol and I’d be out and she’d, she’d see some beautiful woman, and, and she’d be Ross y'know look at her, and I’d think, God, my wife is cool!",negative,"Aw! Hey, do you think that Susan person is her lover?","Well, now I do!!",negative
+281,282,283,"Aw! Hey, do you think that Susan person is her lover?",neutral,"Well, now I do!!",I’m sorry.,negative
+282,283,284,"Well, now I do!!",negative,I’m sorry.,Seven years.,negative
+290,291,292,"But,  you’ve got one more apology to make, all right, you’ve got to apologize to Mary-Angela.",neutral,"Okay, absolutely!",All right.,neutral
+291,292,293,"Okay, absolutely!",positive,All right.,You’ve got it.,neutral
+292,293,294,All right.,neutral,You’ve got it.,"Cookie, now you can punch him!",negative
+293,294,295,You’ve got it.,neutral,"Cookie, now you can punch him!",What?!,negative
+296,297,298,"All right, that's it, I quit.",negative,What? I didn't say anything.,"Yeah, but this  isn't the face of a person who trusts a person.",negative
+299,300,301,"Ok, this  is the face of a person who, you know, doesn't trust a person.",negative,"I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.",Would you relax? I know what I am doing. This is how he wears it.,negative
+300,301,302,"I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.",negative,Would you relax? I know what I am doing. This is how he wears it.,Julie.,neutral
+302,303,304,Julie.,neutral,What?!,Jody!,negative
+303,304,305,What?!,negative,Jody!,You were with Julie?,neutral
+304,305,306,Jody!,negative,You were with Julie?,"Look, when it started I was just trying to be nice to her because she was my brother's girlfriend.",neutral
+307,308,309,"And then, one thing led to another and, before I knew it, we were...shopping.",neutral,Oh. Oh my God.,"Honey, wait. We only did it once. It didn't mean anything to me.",negative
+308,309,310,Oh. Oh my God.,negative,"Honey, wait. We only did it once. It didn't mean anything to me.","Yeah, right.  Sure!",negative
+309,310,311,"Honey, wait. We only did it once. It didn't mean anything to me.",negative,"Yeah, right.  Sure!","Really, Rachel, I was thinking of you the whole time.",negative
+313,314,315,I never meant for you to find out!,negative,"Oh, please, you wanted to get caught.",That is not true!,negative
+314,315,316,"Oh, please, you wanted to get caught.",negative,That is not true!,"Oh, so you just sort of happened to leave it in here?",negative
+315,316,317,That is not true!,negative,"Oh, so you just sort of happened to leave it in here?",Did it ever occur to you that I might just be that stupid?,negative
+316,317,318,"Oh, so you just sort of happened to leave it in here?",negative,Did it ever occur to you that I might just be that stupid?,"Ok, Monica. I just have to know one thing. Did you go with her to",negative
+317,318,320,Did it ever occur to you that I might just be that stupid?,negative,"Ok, Monica. I just have to know one thing. Did you go with her to",Yeah!,negative
+320,321,322,Yeah!,negative,I can’t say.,Why?!,negative
+327,328,329,"Okay, okay. It’s James Brolin. James Brolin is the father of my baby.",neutral,As in Barbara Streisand’s husband James Brolin?,What?! Well he never said that to me!,negative
+329,330,331,What?! Well he never said that to me!,negative,In,"Oh, this life! Oh okay no, Chandler's is worse.",negative
+331,332,333,"Oh, this life! Oh okay no, Chandler's is worse.",negative,"Man, it must be so cool remembering stuff like that! I don't have any past life memories.",Of course you don't sweetie. You're brand new.,neutral
+341,342,343,"Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!",negative,Who was that?,Wendy bailed. I have no waitress.,negative
+342,343,344,Who was that?,neutral,Wendy bailed. I have no waitress.,Oh... that's too bad. Bye bye.,negative
+343,344,345,Wendy bailed. I have no waitress.,negative,Oh... that's too bad. Bye bye.,Ten dollars an hour.,neutral
+344,345,346,Oh... that's too bad. Bye bye.,negative,Ten dollars an hour.,No.,neutral
+345,346,347,Ten dollars an hour.,neutral,No.,Twelve dollars an hour.,neutral
+346,347,348,No.,neutral,Twelve dollars an hour.,"Mon. I wish I could, but I've made plans to walk around.",neutral
+347,348,349,Twelve dollars an hour.,neutral,"Mon. I wish I could, but I've made plans to walk around.","You know, Rachel, when you ran out of your wedding, I was there for you.",negative
+352,353,354,"The reactor’s gonna blow in three seconds, we’re never gonna make it!",negative,You’ve got to get out of here! Save yourself!,No! I won’t leave you!,negative
+353,354,355,You’ve got to get out of here! Save yourself!,negative,No! I won’t leave you!,"Don’t worry about me, I’m a robot! I’m just a machine!!",negative
+354,355,356,No! I won’t leave you!,negative,"Don’t worry about me, I’m a robot! I’m just a machine!!",No you’re not! Not to me!,negative
+355,356,357,"Don’t worry about me, I’m a robot! I’m just a machine!!",negative,No you’re not! Not to me!,Oh my God.,positive
+356,357,358,No you’re not! Not to me!,negative,Oh my God.,What?,neutral
+357,358,359,Oh my God.,positive,What?,I am,neutral
+358,359,360,What?,neutral,I am,"Yeah, you’re great! Okay, let’s take it from",positive
+359,360,361,I am,neutral,"Yeah, you’re great! Okay, let’s take it from","No, I mean I was really acting my ass off.",positive
+360,361,362,"Yeah, you’re great! Okay, let’s take it from",positive,"No, I mean I was really acting my ass off.","Yeah, I thought I was pretty good too.",positive
+361,362,363,"No, I mean I was really acting my ass off.",positive,"Yeah, I thought I was pretty good too.","Oh yeah, you’re solid. Yeah, you’re just no me.",neutral
+362,363,364,"Yeah, I thought I was pretty good too.",positive,"Oh yeah, you’re solid. Yeah, you’re just no me.",Y’know what? I think that’s enough for now. Yeah. I don’t want to be over rehearsed.,neutral
+363,364,365,"Oh yeah, you’re solid. Yeah, you’re just no me.",neutral,Y’know what? I think that’s enough for now. Yeah. I don’t want to be over rehearsed.,Fine!,negative
+371,372,373,I can't believe that Ross is gone. It is just so sad.,negative,I didn't know Ross and you were so close.,We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.,negative
+372,373,374,I didn't know Ross and you were so close.,negative,We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.,I'm sure that would mean a lot to him.,neutral
+381,382,383,"I mean, the fact that you are here means more    to me than if this room were filled with people!",positive,"You sick freak, who does that? I can't believe I had a crush on    you!",Did you hear that? Kori Weston had a crush on me!!,positive
+384,385,386,We’ll do a quick check.,neutral,Okay.,"So, eight days late huh?",positive
+385,386,387,Okay.,neutral,"So, eight days late huh?",Yeah.,neutral
+386,387,388,"So, eight days late huh?",positive,Yeah.,You must be a little uncomfortable.,neutral
+387,388,389,Yeah.,neutral,You must be a little uncomfortable.,"Eh, just a tad.",neutral
+388,389,390,You must be a little uncomfortable.,neutral,"Eh, just a tad.","You’re about 80 percent effaced, so you’re on your way.",neutral
+392,393,394,If you’re anxious there are a few ways to help things along.,neutral,Do them!!,"Actually, they’re things you can do. Just some home remedies, but in my experience I’ve found that some of them are quite effective.",neutral
+394,395,396,"Actually, they’re things you can do. Just some home remedies, but in my experience I’ve found that some of them are quite effective.",neutral,"Well, we are ready to try anything.","Okay, there’s an herbal tea you can drink.",neutral
+395,396,397,"Well, we are ready to try anything.",neutral,"Okay, there’s an herbal tea you can drink.",Okay.,neutral
+403,404,405,"I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...",neutral,Just aim for the bump.,"Ok, ok, ok, ok, here goes.",neutral
+408,409,410,I feel stupid.,negative,"So don't do it, it's fine. You don't have to do it just because Susan does it.","Hello, baby. Hello, hello.",positive
+418,419,420,Easy. Easy. You have to go to the hospital. Okay?,negative,"Okay, I do.",Okay.,neutral
+419,420,421,"Okay, I do.",neutral,Okay.,I really do.,neutral
+420,421,422,Okay.,neutral,I really do.,"Okay, I’m gonna get your coat and then I’ll-I’ll put you in a cab.",neutral
+421,422,423,I really do.,neutral,"Okay, I’m gonna get your coat and then I’ll-I’ll put you in a cab.","Okay. Oh wait, wait-wait, you’re not gonna come with me?",negative
+422,423,424,"Okay, I’m gonna get your coat and then I’ll-I’ll put you in a cab.",neutral,"Okay. Oh wait, wait-wait, you’re not gonna come with me?",Of course I am. I just have to make a call.,positive
+423,424,425,"Okay. Oh wait, wait-wait, you’re not gonna come with me?",negative,Of course I am. I just have to make a call.,Okay.,neutral
+424,425,426,Of course I am. I just have to make a call.,positive,Okay.,Okay?,neutral
+425,426,427,Okay.,neutral,Okay?,Thank you.  Oww!!!! God!,negative
+426,427,428,Okay?,neutral,Thank you.  Oww!!!! God!,"What?! I wh-, what’s wrong?",negative
+427,428,429,Thank you.  Oww!!!! God!,negative,"What?! I wh-, what’s wrong?","I’m sorry, I just can’t go to the hospital lookin’ like this.",negative
+433,434,435,"Check it out, he’s winning!  Pete’s winning!",positive,Really?!,No-o-o!!,negative
+442,443,444,Should we tell Rachel there’s an empty private room right next door to hers?,neutral,"We could, or we can have sex in it.","Well let me think about that, while I remove my pants!",positive
+445,446,447,I thought I was a complete idiot.,positive,"Hey, I’m with you. He even asked me if I thought you’d go out with him.","Oh! Oh, I think I’m gonna throw up a little bit. What did you say?",negative
+446,447,448,"Hey, I’m with you. He even asked me if I thought you’d go out with him.",neutral,"Oh! Oh, I think I’m gonna throw up a little bit. What did you say?",I said no.,neutral
+447,448,449,"Oh! Oh, I think I’m gonna throw up a little bit. What did you say?",negative,I said no.,What?!,positive
+448,449,450,I said no.,neutral,What?!,What? I…I just figured since you’re pregnant you’re not gonna be seeing people.,negative
+449,450,451,What?!,positive,What? I…I just figured since you’re pregnant you’re not gonna be seeing people.,"Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",negative
+450,451,452,What? I…I just figured since you’re pregnant you’re not gonna be seeing people.,negative,"Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",I didn’t tell him. I didn’t know if you were telling people. This is back when I thought Kash was still people.,neutral
+451,452,453,"Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",negative,I didn’t tell him. I didn’t know if you were telling people. This is back when I thought Kash was still people.,"Good-good, don’t tell him. Don’t tell him. Just have him call me okay?",negative
+452,453,454,I didn’t tell him. I didn’t know if you were telling people. This is back when I thought Kash was still people.,neutral,"Good-good, don’t tell him. Don’t tell him. Just have him call me okay?","Rach look, I really don’t think that’s such a great",negative
+453,454,455,"Good-good, don’t tell him. Don’t tell him. Just have him call me okay?",negative,"Rach look, I really don’t think that’s such a great","Okay, you go do it! I’ll come back to that set! I’ll meet more actors! I’ll meet ‘em all!",positive
+461,462,463,You tell them to wait!,negative,Okay. Wait! Wait!,Emily.,neutral
+464,467,468,Oh no-no-no! Oh-no!  No! No! Emily!,negative,I know. You're the guy who wouldn't chip in for the handyman.,Nevermind!,negative
+467,468,469,I know. You're the guy who wouldn't chip in for the handyman.,negative,Nevermind!,"No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in.",neutral
+472,473,474,"Jen, I know this may sound a little… But uh, would you maybe wanna grab a cup of coffee sometime, or",neutral,Sure! That would be nice.,Umm?,neutral
+473,474,475,Sure! That would be nice.,positive,Umm?,Oh! My number is on there.  Give me a call.,positive
+474,475,476,Umm?,neutral,Oh! My number is on there.  Give me a call.,I will give you a call.,neutral
+475,476,477,Oh! My number is on there.  Give me a call.,positive,I will give you a call.,I'll see you later.,neutral
+476,477,478,I will give you a call.,neutral,I'll see you later.,Okay!,positive
+477,478,479,I'll see you later.,neutral,Okay!,I forgot my paper.,neutral
+481,482,483,What?,neutral,Okay.,Ow!,positive
+485,486,487,No. Thank you.,neutral,"No, Rachel never pees in public restrooms.","Well, they never have any paper in there y'know. So my rule is ‘no tissue, no tuschy.’  Well, if everybody’s going.",neutral
+489,490,491,"Oh, no-no-no-no-no-no!!",negative,What’s going on?,My lighter’s in there!,negative
+495,496,497,"No, no he’s not.",neutral,"You guys, Joey just saw Janice kissing her ex-husband.","What?  So what are you going to do? I mean how, how are you going to tell Chandler?",negative
+498,499,500,"Well, I was thinking about that and I, I think the best way would be, to not.",neutral,"Joey, you can’t keep this to yourself, if you know about this, you have to tell him.","It’ll kill him. I mean it’ll, it’ll just kill him.",negative
+504,505,506,"Hey, what are you doing here?",neutral,"Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of","Ah yeah, but now it’s Susan and me in Mexico and the hostages coming home.",neutral
+505,506,507,"Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of",neutral,"Ah yeah, but now it’s Susan and me in Mexico and the hostages coming home.",Where’s Ben?,neutral
+506,507,508,"Ah yeah, but now it’s Susan and me in Mexico and the hostages coming home.",neutral,Where’s Ben?,He’s sleeping.,neutral
+507,508,509,Where’s Ben?,neutral,He’s sleeping.,"Ahh.  Ooh, is this a ah, is this a bad time?",positive
+508,509,510,He’s sleeping.,neutral,"Ahh.  Ooh, is this a ah, is this a bad time?","Umm, yeah, actually, Susan’s gonna be home any minute, it’s kinda an anniversary.",positive
+509,510,511,"Ahh.  Ooh, is this a ah, is this a bad time?",positive,"Umm, yeah, actually, Susan’s gonna be home any minute, it’s kinda an anniversary.","Oh! I thought you guys got married in uh, January?",negative
+510,511,512,"Umm, yeah, actually, Susan’s gonna be home any minute, it’s kinda an anniversary.",positive,"Oh! I thought you guys got married in uh, January?",It’s not that kind of anniversary.,neutral
+511,512,513,"Oh! I thought you guys got married in uh, January?",negative,It’s not that kind of anniversary.,Ah!  Oh.,negative
+512,513,514,It’s not that kind of anniversary.,neutral,Ah!  Oh.,Sooo!! Anyway...,neutral
+515,516,517,Where are we gonna find a tiny little hat?,neutral,"Oh, oh, oh, I’ll get ‘Rainy Day Bear’!!","Because he’ll know what to do?  Oh my God, you’re a genius!",positive
+516,517,518,"Oh, oh, oh, I’ll get ‘Rainy Day Bear’!!",positive,"Because he’ll know what to do?  Oh my God, you’re a genius!","Oh God, oh God, it’s sowed on though.",negative
+517,518,519,"Because he’ll know what to do?  Oh my God, you’re a genius!",positive,"Oh God, oh God, it’s sowed on though.",Give it. Give it.,neutral
+518,519,520,"Oh God, oh God, it’s sowed on though.",negative,Give it. Give it.,Okay.,neutral
+520,521,522,Okay.,neutral,Oh!!,"Oh, it’s just like a bloodbath in here today.",negative
+523,524,525,Please. This is so your fault.,negative,"How, how is this my fault?","Look, Carol never threw me out of a room before you came along.",negative
+524,525,526,"How, how is this my fault?",negative,"Look, Carol never threw me out of a room before you came along.","Yeah? Well, there's a lot of things Carol never did before I came along.",negative
+536,537,538,"So just stop all the yelling, just stop it!",negative,"Yeah, Susan.","Don't make me do this again, I don't like my voice like this.",negative
+544,545,546,"Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.",neutral,"Y’know sometimes the good ideas are just right in front of you, aren’t they?","Okay, I know it sounds crazy, but I think it might work. Y’know? The only problem is, Carl’s acting is",neutral
+546,547,548,"Okay, I know it sounds crazy, but I think it might work. Y’know? The only problem is, Carl’s acting is",neutral,The,"Yeah, he’s the reason I didn’t get that big",neutral
+548,549,550,"Yeah, he’s the reason I didn’t get that big",neutral,"Hey, uh can I get a little piece of that cake?",Pizza!! We like Pizza!! Get out!!!,negative
+551,552,553,"Hey Monica, there’s a customer who wants to complement the chef, should I let him in?",neutral,"Sure, I love this part!",Come on in.,neutral
+554,555,556,"Really? In the moment, I really wanted to kiss you too. In the moment.",positive,"In the moment, yeah.",But only in the moment. So do ya wanna kiss again?,positive
+555,556,557,"In the moment, yeah.",neutral,But only in the moment. So do ya wanna kiss again?,"Sure, New Year’s Eve is only two weeks away. Can you wait?",neutral
+556,557,558,But only in the moment. So do ya wanna kiss again?,positive,"Sure, New Year’s Eve is only two weeks away. Can you wait?",No.,neutral
+557,558,559,"Sure, New Year’s Eve is only two weeks away. Can you wait?",neutral,No.,Me neither.,neutral
+558,559,560,No.,neutral,Me neither.,"3, 2,",neutral
+559,560,561,Me neither.,neutral,"3, 2,","Joey, you don’t have to count down every time we kiss.",positive
+560,561,562,"3, 2,",neutral,"Joey, you don’t have to count down every time we kiss.","Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.",positive
+572,573,574,"Hey, Joey, what would you do if you were omnipotent?",neutral,Probably kill myself!,..Excuse me?,positive
+573,574,575,Probably kill myself!,negative,..Excuse me?,"Hey, if Little Joey's dead, then I got no reason to live!",negative
+575,576,577,"Hey, if Little Joey's dead, then I got no reason to live!",negative,"Joey, uh-",You,neutral
+577,579,580,You,neutral,"Joey, onstage!",Well can you at least stay to the end of the play?,negative
+582,583,584,Where are you Vic?,neutral,Flight’s in an hour. I-I gotta go.,Vic! Vic!,negative
+584,585,586,Vic! Vic!,negative,In a minute!!,So this is it? Victor?,negative
+585,586,587,In a minute!!,negative,So this is it? Victor?,"Yeah, I guess it is.",negative
+597,598,599,Nooo Way! The most romantic song ever is,neutral,"See, I-I think that one that Elton John wrote for, um, that guy on","What song was that, Pheebs?",neutral
+598,599,600,"See, I-I think that one that Elton John wrote for, um, that guy on",neutral,"What song was that, Pheebs?",Hi Monica!,positive
+604,605,606,Nope.,neutral,"No, it's been three nights in a row.","Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.",neutral
+610,611,612,"So uh, man, are you gonna go to the play with me tonight?",neutral,"Y’know what, I don’t know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.","Yeah, I know but",neutral
+611,612,613,"Y’know what, I don’t know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.",negative,"Yeah, I know but","Oh no-no-no, I’m there.",neutral
+614,615,616,Hey!,positive,Hey Mon! Want some pancakes?,You made pancakes?,positive
+615,616,617,Hey Mon! Want some pancakes?,positive,You made pancakes?,Yep! Grab a plate.,positive
+619,620,621,"No-no, stay right there.  Gettin’ closer.",neutral,"Okay, okay, but don’t worry, because we also have cereals, muffins, waffles,","Listen also we’re uh, we’re watching the game here Saturday night, if people want to come over.",neutral
+629,630,631,Oh my good God.,positive,"Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.","Look, you have done enough! Okay? You have to stop this now.",negative
+630,631,632,"Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.",neutral,"Look, you have done enough! Okay? You have to stop this now.","I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.",positive
+631,632,633,"Look, you have done enough! Okay? You have to stop this now.",negative,"I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.","Oh, the mixed tape.",neutral
+632,633,634,"I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.",positive,"Oh, the mixed tape.",The Way You Look Tonight,positive
+637,638,639,Hey!,positive,Hey!,"Hey, guess what I’m doing tonight.",neutral
+638,639,640,Hey!,positive,"Hey, guess what I’m doing tonight.",What?,neutral
+639,640,641,"Hey, guess what I’m doing tonight.",neutral,What?,I’m checking out the restaurant with Pete.,neutral
+640,641,642,What?,neutral,I’m checking out the restaurant with Pete.,"Ohh, Monica, I am so excited for you.",positive
+644,645,646,"So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find",neutral,"Ooh, actually I’ve been making a list of all the women I know who might be into doing this!","Oh.  Wow!  Huh.  Boy!  Well, someone’s been doing their homework.",positive
+645,646,647,"Ooh, actually I’ve been making a list of all the women I know who might be into doing this!",positive,"Oh.  Wow!  Huh.  Boy!  Well, someone’s been doing their homework.","Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so",neutral
+646,647,648,"Oh.  Wow!  Huh.  Boy!  Well, someone’s been doing their homework.",positive,"Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so","Oh, I know.  Y’know, just-just talking about it is getting me kinda",neutral
+647,648,649,"Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so",neutral,"Oh, I know.  Y’know, just-just talking about it is getting me kinda","Oh, me too.",neutral
+648,649,650,"Oh, I know.  Y’know, just-just talking about it is getting me kinda",neutral,"Oh, me too.","and then, we could’ve gone from the ceremony to the reception with you in the sidecar!",positive
+650,651,652,"and then, we could’ve gone from the ceremony to the reception with you in the sidecar!",positive,"Ross, it just wouldn’t have been feasible.",But having a dove place the ring on your finger would’ve been no problem?,negative
+651,652,653,"Ross, it just wouldn’t have been feasible.",neutral,But having a dove place the ring on your finger would’ve been no problem?,It was really fun being married to you tonight.,positive
+652,653,654,But having a dove place the ring on your finger would’ve been no problem?,negative,It was really fun being married to you tonight.,"Yeah! And! And, it was the easiest 400 bucks I’ve ever made.",positive
+653,654,655,It was really fun being married to you tonight.,positive,"Yeah! And! And, it was the easiest 400 bucks I’ve ever made.","Okay Ross, can I uh, can I ask you something?",negative
+654,655,656,"Yeah! And! And, it was the easiest 400 bucks I’ve ever made.",positive,"Okay Ross, can I uh, can I ask you something?",Yeah.,neutral
+655,656,657,"Okay Ross, can I uh, can I ask you something?",negative,Yeah.,"That proposal, at the planetarium",neutral
+656,657,658,Yeah.,neutral,"That proposal, at the planetarium","I know, I know it was stupid.",negative
+657,658,659,"That proposal, at the planetarium",neutral,"I know, I know it was stupid.",Are you kidding?!,positive
+664,665,666,"It’s how I imagined I uh, I would ask you to marry me.",neutral,"Well, that would’ve been very hard to say no too.","It’s a good thing I didn’t do it, because it sounds like it would’ve been a very expensive wedding.  Okay, good night",neutral
+665,666,667,"Well, that would’ve been very hard to say no too.",neutral,"It’s a good thing I didn’t do it, because it sounds like it would’ve been a very expensive wedding.  Okay, good night",Goodnight,neutral
+666,667,668,"It’s a good thing I didn’t do it, because it sounds like it would’ve been a very expensive wedding.  Okay, good night",neutral,Goodnight,Even if the sidecar had a windscreen so your hair wouldn’t get messed up?,neutral
+667,668,669,Goodnight,neutral,Even if the sidecar had a windscreen so your hair wouldn’t get messed up?,I will think about it.,neutral
+673,674,675,"No it isn’t, I ate that.",neutral,Well we left ours in Monica’s bedroom.,"Nope, got it and I got yours  too.",neutral
+677,678,679,And that’s I’m so glad… there’s no problem.,positive,"That’s fine, actually I’m on the hiring committee, so there’ll be at least one friendly face.",Ohh! That’s great!,positive
+678,679,680,"That’s fine, actually I’m on the hiring committee, so there’ll be at least one friendly face.",neutral,Ohh! That’s great!,"You know, Junior Miss is where I started. Oh, I had to sleep with the",neutral
+679,680,681,Ohh! That’s great!,positive,"You know, Junior Miss is where I started. Oh, I had to sleep with the",Really?!,positive
+680,681,682,"You know, Junior Miss is where I started. Oh, I had to sleep with the",neutral,Really?!,No-ho-ho!,positive
+685,686,687,"Although, I might need some convincing.",neutral,"Well, I, umm","Kidding! God, I feel wild today!",positive
+688,689,690,Oh my God! Chandler just left though!,negative,"Yeah but, maybe it’s not what we think. Maybe it’s tell Monica I’m sorry I…drank the last of the milk.","Or maybe he-he was writing to tell her that-that he’s changed his name, y’know? Tell Monica I’m sorry.",neutral
+690,691,692,"Or maybe he-he was writing to tell her that-that he’s changed his name, y’know? Tell Monica I’m sorry.",neutral,I think it means he freaked out and left!,Don’t be so negative! Good God! Isn’t it possible that Sorry is sitting in there  right now?!,negative
+700,701,702,Hey!,positive,Hi! Hey!,Do you guys know any cute guys?,neutral
+705,706,707,"Anyway, there’s this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go",neutral,What’s the charity?,"I don’t know, something either trees or disease—Ralph mumbles a lot.",neutral
+706,707,708,What’s the charity?,neutral,"I don’t know, something either trees or disease—Ralph mumbles a lot.",Does Ralph mumble when you’re not paying attention?,neutral
+707,708,709,"I don’t know, something either trees or disease—Ralph mumbles a lot.",neutral,Does Ralph mumble when you’re not paying attention?,Yeah! It’s weird. But the thing is need to find a date.,positive
+709,710,711,Yeah! It’s weird. But the thing is need to find a date.,positive,"Well, what kind of guy are you looking for?",Hey!,positive
+713,714,715,"Oh, Rachel and I have appointments to get our hair cut.",neutral,We do?,I want to see what he wants first.,neutral
+717,718,719,I just found out that Elizabeth’s dad wants to meet me.,negative,"Wait a minute, hold the phone! You’re not Elizabeth’s dad?!","Come on guys, I-I really want this guy to like me.",negative
+720,721,722,It-it would really help me out if you guys were here to make me look good.,negative,Of course we’ll help! Yeah! We’ll be here!,Thanks!,positive
+732,733,734,"Uh, so, where did you say you're from again?",neutral,Colorado.,"Ah, what good are you.",neutral
+735,736,737,"Look, um, I think we should talk about what happened on the terrace.",neutral,Okay.,"Ah, I-I never should have said what I said.",negative
+740,741,742,"I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?",negative,"Um, I'm not.","Oh, god, I knew it, that I freaked you out.",negative
+741,742,743,"Um, I'm not.",neutral,"Oh, god, I knew it, that I freaked you out.","No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",negative
+742,743,744,"Oh, god, I knew it, that I freaked you out.",negative,"No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",Really?,positive
+743,744,745,"No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",negative,Really?,"Yeah, so, please don't fire me for doing this.",negative
+746,747,748,"Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",negative,"See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",Pass it! Pass it!,positive
+747,748,749,"See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",neutral,Pass it! Pass it!,He's open!,positive
+749,750,751,He's open!,positive,Shoot! Shoot! Shoot!,"Hey, look, we're on that TV thing!",positive
+752,753,756,I am so psyched I kept this chair for myself!,positive,"Yeah, me too.","Yeah? Wow! Y’know, that this thing has speakers in the headrest!",positive
+753,756,757,"Yeah, me too.",neutral,"Yeah? Wow! Y’know, that this thing has speakers in the headrest!",No. Really?,negative
+756,757,758,"Yeah? Wow! Y’know, that this thing has speakers in the headrest!",positive,No. Really?,Yeah! You can hook it up to your TV,positive
+757,758,759,No. Really?,negative,Yeah! You can hook it up to your TV,My chair heals itself.,neutral
+759,760,761,My chair heals itself.,neutral,"Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?","Yes! Yes, I did.",negative
+760,761,762,"Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?",negative,"Yes! Yes, I did.",Then do Iceberg!,negative
+761,762,763,"Yes! Yes, I did.",negative,Then do Iceberg!,G-sharp.,neutral
+762,763,764,Then do Iceberg!,negative,G-sharp.,G,neutral
+763,764,765,G-sharp.,neutral,G,What?! I didn't touch a guitar!,negative
+764,765,766,G,neutral,What?! I didn't touch a guitar!,"No, but you're questioning my method!",negative
+765,766,767,What?! I didn't touch a guitar!,negative,"No, but you're questioning my method!","No, I'm not questioning it, I'm saying it's stupid!  What?!",negative
+769,770,771,Y'know none of my other student thought I was stupid.,negative,"Your other student, was you!","Yeah, well, y'know maybe you just need to try a little harder!",negative
+770,771,772,"Your other student, was you!",negative,"Yeah, well, y'know maybe you just need to try a little harder!","Look, maybe I need to try a real teacher!",negative
+776,777,778,Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play,negative,"""Baddest man in the whole damn town.""","Oh, fine! Take his side!",negative
+779,780,781,"And shame on you! You should know better, Joey needs to work.  Now come on!",negative,Hey!,No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!,negative
+781,782,783,No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!,negative,Hi!,Hi.,neutral
+782,783,784,Hi!,positive,Hi.,"Hi.  Umm, I think there’s something that we really need to talk about.",positive
+783,784,785,Hi.,neutral,"Hi.  Umm, I think there’s something that we really need to talk about.","I think we do. Why don’t we go inside?  Look uh, I know why you’re here.",negative
+784,785,786,"Hi.  Umm, I think there’s something that we really need to talk about.",positive,"I think we do. Why don’t we go inside?  Look uh, I know why you’re here.",You do?,positive
+785,786,787,"I think we do. Why don’t we go inside?  Look uh, I know why you’re here.",negative,You do?,"Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.",neutral
+786,787,788,You do?,positive,"Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.",Okay.,neutral
+787,788,789,"Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.",neutral,Okay.,"Okay.  Uh, Ross and Rachel. Rachel and Ross. That’s been one heck of a see-saw hasn’t it?",neutral
+788,789,790,Okay.,neutral,"Okay.  Uh, Ross and Rachel. Rachel and Ross. That’s been one heck of a see-saw hasn’t it?",What?,negative
+789,790,791,"Okay.  Uh, Ross and Rachel. Rachel and Ross. That’s been one heck of a see-saw hasn’t it?",neutral,What?,"I mean look, that-that one night we had was fun and…and certainly passionate, but don’t you think it’s better if we just stayed friends?",negative
+790,791,792,What?,negative,"I mean look, that-that one night we had was fun and…and certainly passionate, but don’t you think it’s better if we just stayed friends?",Seriously. What?!,negative
+791,792,793,"I mean look, that-that one night we had was fun and…and certainly passionate, but don’t you think it’s better if we just stayed friends?",negative,Seriously. What?!,Okay.,neutral
+798,799,800,"In fact, I have some time right now.",neutral,"Okay, y’know what? Can I, can I talk now?",Oh sure.,neutral
+799,800,801,"Okay, y’know what? Can I, can I talk now?",positive,Oh sure.,"I’m pregnant.  Ross?  Ross?  Okay, whenever you’re ready.  And you’re the father by the way—but you got that",negative
+803,804,805,I know!,positive,"Yes! Wow, well, that-that was easy. Okay, you-you go.",Okay.,neutral
+804,805,806,"Yes! Wow, well, that-that was easy. Okay, you-you go.",positive,Okay.,Okay.,neutral
+805,806,807,Okay.,neutral,Okay.,"Okay, you know, you know when your in bed, with a woman.",positive
+806,807,808,Okay.,neutral,"Okay, you know, you know when your in bed, with a woman.",Hmph.,neutral
+807,808,809,"Okay, you know, you know when your in bed, with a woman.",positive,Hmph.,"And, ah, you know, your fooling around with her.",positive
+810,811,812,"And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....",positive,"With the belly-button ring? Oh, muhawa!","I know, And then all of the sudden your Mom pops into your head.",negative
+816,817,818,You know.... You don't know!,negative,"Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?",You said...,neutral
+817,818,819,"Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?",negative,You said...,I said ',neutral
+819,820,821,I said ',neutral,Oh!,Look at Emma!,positive
+820,821,822,Oh!,positive,Look at Emma!,"I just can’t decide who she looks more alike, you or Rachel?",neutral
+821,822,823,Look at Emma!,positive,"I just can’t decide who she looks more alike, you or Rachel?","Oh what are you kidding? She’s gorgeous, it’s all Rachel.",positive
+822,823,824,"I just can’t decide who she looks more alike, you or Rachel?",neutral,"Oh what are you kidding? She’s gorgeous, it’s all Rachel.","I’m sorry, for the last time, why aren’t you two together again?",neutral
+827,828,829,"Which would be fine, except you totally are.",neutral,It’s…it’s complicated okay?,"Yeah that’s true. Yeah, you love her. You always have. You have a child together. There is no right answer.",neutral
+828,829,830,It’s…it’s complicated okay?,negative,"Yeah that’s true. Yeah, you love her. You always have. You have a child together. There is no right answer.","Look, we’ve been together.",negative
+836,837,838,"Since Rachel and I we’re doing really, we’re doing really well right now.",negative,"I know. I know. I know. I know, and if you try to make it more you might wreck it.","Yeah, exactly.",neutral
+837,838,839,"I know. I know. I know. I know, and if you try to make it more you might wreck it.",neutral,"Yeah, exactly.",Right.  Or you might get everything you’ve wanted since you were fifteen.,neutral
+840,841,842,God. I forgot how much I love driving. I have,positive,You don’t have a,"Oh Ross you’re so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax",neutral
+841,842,843,You don’t have a,neutral,"Oh Ross you’re so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax",What-what are you doing?! Are you—Okay that’s not funny! Just stop horsing around!,negative
+842,843,844,"Oh Ross you’re so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax",neutral,What-what are you doing?! Are you—Okay that’s not funny! Just stop horsing around!,"I am not horsing around, okay? I am Porsching around.",positive
+845,846,847,Uh-oh.,negative,"Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.",Really? You think so?,negative
+846,847,848,"Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.",neutral,Really? You think so?,I was talking to myself! You’re going down!,negative
+849,850,851,Hey honey! I missed you today!,positive,"Oh, yeah?",Yeah.  What d'you wanna do tonight?,neutral
+850,851,852,"Oh, yeah?",positive,Yeah.  What d'you wanna do tonight?,"Oh, well... Maybe we could...",neutral
+851,852,853,Yeah.  What d'you wanna do tonight?,neutral,"Oh, well... Maybe we could...","Ok, trying to turn me on by making a mess?",positive
+855,856,857,"Besides, tomorrow we're doing those fertility tests and until then you need    to keep your tadpoles in the tank.",neutral,We really need to take those tests?,"Honey, we've been trying to have a baby for over a year.",neutral
+860,861,862,"Oh, hi Max! Hey, do you know everybody?",neutral,No. Have you seen David?,"No, no, he hasn't been around.",neutral
+861,862,863,No. Have you seen David?,neutral,"No, no, he hasn't been around.","Well, if you see him, tell him to pack his bags. We are going to Minsk.",neutral
+862,863,864,"No, no, he hasn't been around.",neutral,"Well, if you see him, tell him to pack his bags. We are going to Minsk.",Minsk?,negative
+863,864,865,"Well, if you see him, tell him to pack his bags. We are going to Minsk.",neutral,Minsk?,Minsk. It's in Russia.,neutral
+864,865,866,Minsk?,negative,Minsk. It's in Russia.,I know where Minsk is.,neutral
+865,866,867,Minsk. It's in Russia.,neutral,I know where Minsk is.,"We got the grant. Three years, all expenses paid.",positive
+866,867,868,I know where Minsk is.,neutral,"We got the grant. Three years, all expenses paid.","So when, when do you leave?",neutral
+867,868,869,"We got the grant. Three years, all expenses paid.",positive,"So when, when do you leave?",January first,neutral
+874,875,876,Pretty great! Except I did get a little attitude from the robot.,positive,"Damn those robots, they’re supposed to be our","Anyway, it wasn’t the robot, it was the guy who controls him.",neutral
+880,881,882,Ohh!,positive,"Well, why don’t you just get him fired?","I may have to, I hate to do it, but I’m the star!",negative
+886,887,888,Joey Tribbiani.,neutral,"Joe! I’m glad I found ya, I got an audition for ya!",Wow!,positive
+887,888,889,"Joe! I’m glad I found ya, I got an audition for ya!",positive,Wow!,The thing is it’s kinda on the Q.T.,neutral
+894,895,896,What is going on with you? Since when are you so crazy about babies?,positive,I’m not crazy about babies. I’m crazy about us.,What?,positive
+895,896,897,I’m not crazy about babies. I’m crazy about us.,positive,What?,"Look, we’ve always talked about having babies someday.",neutral
+904,905,906,"He said, ""Nice to meet you Glenda.""  Well, obviously I couldn't give him my real name?",neutral,Why?! Why not?!,"Come on, you saw the way he ran out of here!",negative
+908,909,910,He's gonna stick around and talk to the daughter he abandoned!,negative,What did you say to him?,"Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.",neutral
+912,913,914,"Okay, in about ten seconds you’re gonna see him kiss me.",positive,And in about five seconds you’re gonna see why.,Ross did I ever tell you about the time that I went backpacking through Western Europe?,neutral
+915,916,917,"Okay, get ready to see some beggin’!",positive,"Oh, you came on to Ross!",What?!,negative
+917,918,919,What?!,negative,Now I’m so happy.,What are you talking about?!,negative
+922,923,924,How do you know about that story?!,negative,How do,I heard it from my friend Irene who heard it from some guy!,neutral
+923,924,925,How do,neutral,I heard it from my friend Irene who heard it from some guy!,Some guy!!,positive
+924,925,926,I heard it from my friend Irene who heard it from some guy!,neutral,Some guy!!,"No. No, she told me his name was Ken Adams.",neutral
+925,926,927,Some guy!!,positive,"No. No, she told me his name was Ken Adams.",Ken Adams!!,positive
+928,929,930,"How we doing, you guys ready?",neutral,Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?,Some days it's all I can think about.,neutral
+930,931,932,Some days it's all I can think about.,neutral,"Hi, sorry I'm late, I couldn't find my bearings.","Oh... ok, fine.",neutral
+937,938,939,I can’t believe this! How long as this been going on?,negative,"Well umm, Alexandra has been","Oh, it has a name?",negative
+938,939,940,"Well umm, Alexandra has been",neutral,"Oh, it has a name?","Phoebe, don’t get upset!",negative
+939,940,941,"Oh, it has a name?",negative,"Phoebe, don’t get upset!",Okay—Oop! Too late! I’m leaving! Come on Chandler let’s go!,negative
+942,943,944,"Well, Phoebe I thought I’d——Yeah, what the hell.",neutral,Ben!,"Oh, that's good. Maybe he'll hear you and pull the cord.",negative
+943,944,945,Ben!,negative,"Oh, that's good. Maybe he'll hear you and pull the cord.",Stop the bus! Wait! Wait! Wait!,negative
+956,957,958,"Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.",positive,"Rachel, how did this happen?","I don't know, I just kinda ran into him last night.",negative
+958,959,960,"I don't know, I just kinda ran into him last night.",negative,Where?,At his apartment. Is this juice?,neutral
+960,961,962,At his apartment. Is this juice?,neutral,"Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?","Oh God, I know I'm a pathetic loser.",negative
+963,964,965,"I licked my arm, what?",positive,It's breast milk.,So?,neutral
+969,970,971,"Ok, would people stop drinking the breast milk?",negative,You won't even taste it?,No!,negative
+970,971,972,You won't even taste it?,neutral,No!,Not even if you just pretend that it's milk?,neutral
+971,972,973,No!,negative,Not even if you just pretend that it's milk?,Not even if Carol's breast had a picture of a missing child on it.,negative
+973,974,976,Not even if Carol's breast had a picture of a missing child on it.,negative,Aww!,"Hey Pheebs, could you please not put your feet up on my new……old sheet?",negative
+980,982,983,What?!,negative,Noooooo!!,"Ross, where did you get this?!",negative
+982,983,985,Noooooo!!,negative,"Ross, where did you get this?!","Oh my God, Phoebe,",negative
+983,985,986,"Ross, where did you get this?!",negative,"Oh my God, Phoebe,","Wow! Oh my God, well if they’ve ripped off our table ours must be much more than one and fifty dollars!",negative
+991,992,993,"It's too soon to tell. She's resting, which is a good sign.",neutral,How's the hair?,"I'm not gonna lie to you, Ross, it doesn't look good.",negative
+994,995,996,"I put a clip on one side, which seems to have stopped the curling.",neutral,Can we see her?,"Your hair looks too good, I think it would upset her. Ross, why don't you come on in.",negative
+995,996,998,Can we see her?,neutral,"Your hair looks too good, I think it would upset her. Ross, why don't you come on in.",How're you doing?,negative
+1003,1004,1005,"Yeah, it's kinda sweet, sorta like, uh...",neutral,Cantaloupe juice.,Exactly.,neutral
+1006,1007,1008,You've tasted it? You've tasted it.,positive,Uh huh.,"Oh, you've tasted it.",negative
+1007,1008,1009,Uh huh.,neutral,"Oh, you've tasted it.","You can keep saying it, but it won't stop being true.",neutral
+1008,1009,1010,"Oh, you've tasted it.",negative,"You can keep saying it, but it won't stop being true.",Gimme the bottle.  Gimme the towel.,negative
+1011,1012,1013,I still don't get why Greg and Jenny would give us a fake number.,negative,"Y’know, if they knew what they were doing they probably didn’t give you real names either.","Okay, maybe people give out fake numbers, but they don’t give out fake names.",negative
+1012,1013,1014,"Y’know, if they knew what they were doing they probably didn’t give you real names either.",neutral,"Okay, maybe people give out fake numbers, but they don’t give out fake names.","Oh yeah?  Hi, Ken Adams, nice to meet you.",neutral
+1016,1017,1018,"I still don’t get it, we didn’t do anything wrong.",negative,"I know! Although, you did tell an awful lot of jokes.",I thought you said those jokes were funny. Joke! Joke! Joke!,positive
+1017,1018,1019,"I know! Although, you did tell an awful lot of jokes.",negative,I thought you said those jokes were funny. Joke! Joke! Joke!,Joke. Joke. Blah! Blah!,negative
+1018,1019,1020,I thought you said those jokes were funny. Joke! Joke! Joke!,positive,Joke. Joke. Blah! Blah!,Well maybe it was all of your questions.,neutral
+1019,1020,1021,Joke. Joke. Blah! Blah!,negative,Well maybe it was all of your questions.,What about my questions?,neutral
+1022,1023,1024,"No, I’m sorry. It’s just my foot itches like crazy.",neutral,"Oh, I’ll get it.",Wow! I usually get to know a girl a little better before I let her spoon me.,negative
+1023,1024,1025,"Oh, I’ll get it.",neutral,Wow! I usually get to know a girl a little better before I let her spoon me.,"Relax, it’s not like we’re forking.",positive
+1025,1026,1027,"Relax, it’s not like we’re forking.",positive,"Look at it! Ohhh! Wallpaper’s a little faded, that’s okay. Carpet’s a little loose. Hardwood floors!!",Hey!,positive
+1027,1028,1029,Hey!,positive,Hello.,Oh! Ooh! Oh Monica! It’s so beautiful.,positive
+1029,1030,1031,Oh! Ooh! Oh Monica! It’s so beautiful.,positive,I know!!!,"So, I’m here, ready to play.",positive
+1030,1031,1032,I know!!!,positive,"So, I’m here, ready to play.",Okay.,neutral
+1031,1032,1033,"So, I’m here, ready to play.",positive,Okay.,"I brought a bunch of stuff for the house, so check it out. Ha-ha.",positive
+1032,1033,1034,Okay.,neutral,"I brought a bunch of stuff for the house, so check it out. Ha-ha.",What’s this?,positive
+1033,1034,1035,"I brought a bunch of stuff for the house, so check it out. Ha-ha.",positive,What’s this?,"That’s a dog, every house should have a dog.",positive
+1034,1035,1036,What’s this?,positive,"That’s a dog, every house should have a dog.",Not one that can pee on the roof.,negative
+1035,1036,1037,"That’s a dog, every house should have a dog.",positive,Not one that can pee on the roof.,"Well, maybe it’s so big because the house was built on radioactive waste.",positive
+1037,1038,1039,"Well, maybe it’s so big because the house was built on radioactive waste.",positive,And is this in case the house sneezes?,"No, no, that’s the ghost for the attic.",neutral
+1039,1040,1041,"No, no, that’s the ghost for the attic.",neutral,I don’t want a ghost.,"Well, nobody wants a ghost. But you’ve got one, because the house is sitting on an ancient Indian burial ground.",neutral
+1041,1042,1043,"Well, nobody wants a ghost. But you’ve got one, because the house is sitting on an ancient Indian burial ground.",neutral,"Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.","Okay, obviously you don’t know much about the U.S. government.",neutral
+1044,1045,1046,Hey!,positive,Hello.,I need to talk to you!,positive
+1048,1049,1050,"All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.",negative,"Please, I'm not going for anything.","Well, if you don't, I will.",negative
+1049,1050,1051,"Please, I'm not going for anything.",negative,"Well, if you don't, I will.",Would you please go?,positive
+1051,1052,1053,Would you please go?,positive,I would!,"Hey, guys, guys, did you see my new, china cabinet?!",positive
+1054,1055,1057,Uh-huh.,neutral,"Watch, watch.",Ooohhhh!!,positive
+1055,1057,1059,"Watch, watch.",positive,Ooohhhh!!,"And, and!",positive
+1057,1059,1060,Ooohhhh!!,positive,"And, and!",Ahhhh!!,positive
+1061,1062,1063,"Hey, my Father’s house does that!",positive,"O-o-o-okay, how did it go? Tell me everything.","Well, the movie was great, dinner was great, and there’s nothing like a cool, crisp New York evening.",neutral
+1068,1069,1070,It’s clearly an Emma.,neutral,"Oh honey, but you love that name.","Yeah, but I love you more.",positive
+1082,1083,1084,Nice try.,negative,"Wait, wait, wait!","Look, Monica",neutral
+1083,1084,1085,"Wait, wait, wait!",positive,"Look, Monica",Look!,negative
+1084,1085,1086,"Look, Monica",neutral,Look!,This is not going to work.,negative
+1085,1086,1087,Look!,negative,This is not going to work.,I bet this will work!,positive
+1086,1087,1088,This is not going to work.,negative,I bet this will work!,You are so great! I love you!,positive
+1087,1088,1089,I bet this will work!,positive,You are so great! I love you!,What?,positive
+1088,1089,1090,You are so great! I love you!,positive,What?,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!",negative
+1089,1090,1091,What?,positive,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!",You said you loved me! I can't believe this!,positive
+1090,1091,1092,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!",negative,You said you loved me! I can't believe this!,No I didn't!,negative
+1091,1092,1093,You said you loved me! I can't believe this!,positive,No I didn't!,"Yes, you did!",positive
+1092,1093,1094,No I didn't!,negative,"Yes, you did!",No I didn't!,negative
+1093,1094,1095,"Yes, you did!",positive,No I didn't!,You love me!,positive
+1094,1095,1096,No I didn't!,negative,You love me!,No I don't! Stop it! Stop it! Stop it! Stop it!,negative
+1095,1096,1097,You love me!,positive,No I don't! Stop it! Stop it! Stop it! Stop it!,Hello Greg?,neutral
+1100,1101,1102,Jenny’s been giving it out since they moved!,negative,Jenny! That is so Jenny!,"Hey listen umm, how would you like to get together?",neutral
+1117,1118,1119,"Joey, what are you talking about? You’re a terrific actor.",neutral,You really think so?,"Ugh, how can you even ask that question?!",positive
+1118,1119,1120,You really think so?,positive,"Ugh, how can you even ask that question?!",Ross! Get a shot of this. (He's carrying an issue of the,positive
+1131,1132,1133,"Yeah, I love you. Okay, bye!  Hi!",positive,Hi!,"That was Alice's mom, she said she left five hours ago. She should be here by now!",negative
+1132,1133,1134,Hi!,positive,"That was Alice's mom, she said she left five hours ago. She should be here by now!","Oh, honey, don’t worry. She's gonna make it on time.",neutral
+1133,1134,1135,"That was Alice's mom, she said she left five hours ago. She should be here by now!",negative,"Oh, honey, don’t worry. She's gonna make it on time.",Yeah.,neutral
+1145,1146,1147,"Ohh, okay, they gave you the old time pricing.",neutral,Yeah.,"Well, what period is it from?",neutral
+1146,1147,1148,Yeah.,neutral,"Well, what period is it from?","Uh, it’s from yore. Like the days of yore. Y’know?",neutral
+1147,1148,1149,"Well, what period is it from?",neutral,"Uh, it’s from yore. Like the days of yore. Y’know?","Yes, yes I do.",neutral
+1153,1155,1156,Did they tell you anything?,neutral,"Yes! That I know, this is from White Plains.","White Plains. Oh, it sounds like such a magical place.",positive
+1157,1158,1159,"So, you still don’t think I’m boyfriend material?",negative,Huh?,I saw you checking me out during the game last night.,neutral
+1161,1162,1163,“Good-bye Phoebe and Ursula. I’ll miss you. P.S. Your Mom lives in Montauk.” You just wrote this!,negative,"Well, it’s pretty much the gist. Well, except for the poem. You read the poem, right?",Noooo!!,negative
+1162,1163,1164,"Well, it’s pretty much the gist. Well, except for the poem. You read the poem, right?",neutral,Noooo!!,"All right, hang on!",neutral
+1165,1166,1167,"Rachel, it’s going to happen. Chandler is gonna move in here.",neutral,But I,"No-no, wait!",neutral
+1170,1171,1172,And it,neutral,It is? Really?,"Yeah, sweetie.",neutral
+1171,1172,1173,It is? Really?,negative,"Yeah, sweetie.","I mean we’re not, we’re not gonna live together anymore?",negative
+1172,1173,1174,"Yeah, sweetie.",neutral,"I mean we’re not, we’re not gonna live together anymore?",No.,negative
+1173,1174,1175,"I mean we’re not, we’re not gonna live together anymore?",negative,No.,What? Oh my God! I’m gonna miss you so much!,negative
+1174,1175,1176,No.,negative,What? Oh my God! I’m gonna miss you so much!,I’m gonna miss you!,negative
+1175,1176,1177,What? Oh my God! I’m gonna miss you so much!,negative,I’m gonna miss you!,I mean it’s the end of an era!,negative
+1176,1177,1178,I’m gonna miss you!,negative,I mean it’s the end of an era!,I know!,negative
