@@ -3,6 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/model_weight/TAIDE-LX-7B-Chat" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/model_weight/TAIDE-LX-7B-Chat-4bit" vcs="Git" />
   </component>
 </project>

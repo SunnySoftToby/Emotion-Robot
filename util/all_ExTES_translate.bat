@@ -1,0 +1,10 @@
+python ./util/ExTES_translate.py --start 0 --end 1000
+python ./util/ExTES_translate.py --start 1000 --end 2000
+python ./util/ExTES_translate.py --start 2000 --end 3000
+python ./util/ExTES_translate.py --start 3000 --end 4000
+python ./util/ExTES_translate.py --start 4000 --end 5000
+python ./util/ExTES_translate.py --start 5000 --end 6000
+python ./util/ExTES_translate.py --start 6000 --end 7000
+python ./util/ExTES_translate.py --start 7000 --end 8000
+python ./util/ExTES_translate.py --start 8000 --end 9000
+python ./util/ExTES_translate.py --start 9000 --end 10000

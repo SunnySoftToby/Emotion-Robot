@@ -25,6 +25,8 @@ pip install chardet
 pip install gradio
 pip install datasets
 pip install peft
+pip install tiktoken
+pip install openai
 ```
 
 
@@ -37,4 +39,24 @@ pip install peft
 ### 3. 執行demo
 
 ```python main.py```
+
+
+## 準備訓練資料
+
+
+### 1. ExTES
+
+``` ./util/all_ExTES_translate.bat ```
+
+> **Warning**
+> 
+> 此翻譯採用的是 TAIDE-LX-7B-Chat模型，翻譯結果可能會有錯誤或非預期的結果
+
+### 2. MELD
+
+``` python .\util\MELD_translate.py ```
+
+> **Warning**
+> 
+> 此翻譯採用的是 TAIDE-LX-7B-Chat模型，翻譯結果可能會有錯誤或非預期的結果
 
