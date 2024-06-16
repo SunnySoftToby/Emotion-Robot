@@ -69,7 +69,7 @@ class EmotionModelCNN(nn.Module):
 
 # 載入模型
 model = EmotionModelCNN(input_dim_mfcc=20, input_dim_face=52, sequence_length_mfcc=624, sequence_length_face=300, num_classes=3)
-model.load_state_dict(torch.load('F:\CMU-MultimodalSDK\project\emotion_model.pth', map_location=torch.device('cpu')))
+model.load_state_dict(torch.load('emotion_model.pth', map_location=torch.device('cpu')))
 model.eval()
 
 # 修剪特徵
