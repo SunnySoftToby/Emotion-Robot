@@ -1,0 +1,10 @@
+python ./evaluate/generate_dcard_ai_response.py --start 0  --end 10
+python ./evaluate/generate_dcard_ai_response.py --start 10 --end 20
+python ./evaluate/generate_dcard_ai_response.py --start 20 --end 30
+python ./evaluate/generate_dcard_ai_response.py --start 30 --end 40
+python ./evaluate/generate_dcard_ai_response.py --start 40 --end 50
+python ./evaluate/generate_dcard_ai_response.py --start 50 --end 60
+python ./evaluate/generate_dcard_ai_response.py --start 60 --end 70
+python ./evaluate/generate_dcard_ai_response.py --start 70 --end 80
+python ./evaluate/generate_dcard_ai_response.py --start 80 --end 90
+python ./evaluate/generate_dcard_ai_response.py --start 90 --end 100
