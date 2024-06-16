@@ -69,7 +69,7 @@ class EmotionModelCNN(nn.Module):
 
 # 載入模型
 model = EmotionModelCNN(input_dim_mfcc=20, input_dim_face=52, sequence_length_mfcc=624, sequence_length_face=300, num_classes=3)
-model.load_state_dict(torch.load('emotion_model.pth', map_location=torch.device('cpu')))
+model.load_state_dict(torch.load('F:\CMU-MultimodalSDK\project\emotion_model.pth', map_location=torch.device('cpu')))
 model.eval()
 
 # 修剪特徵
@@ -90,9 +90,20 @@ def predict_emotion(mfcc_features, face_features):
         _, predicted = torch.max(outputs, 1)
         return predicted.item()
 
+temp='test'
+@app.route('/predicted',methods=['GET'])
+def predicted():
+    global temp
+    # Ensure temp is not None before responding
+    if temp is None:
+        return jsonify({'error': 'No prediction available'}), 400
+    response = jsonify({'prediction': temp})
+    return response
+
 
 @app.route('/predict',methods=['POST'])
 def predict():
+    global temp
     # Check if the request contains JSON data
     if not request.json:
         return jsonify({'error': 'No JSON data received'}), 400
@@ -111,10 +122,10 @@ def predict():
 
     # Predict emotion using the model
     predicted_label = predict_emotion(mfcc_features, face_features)
-    
     # Map predicted label index to emotion category
     labels = ['Negative', 'Neutral', 'Positive']
     predicted_emotion = labels[predicted_label]
+    temp = predicted_emotion
 
     response = jsonify({'prediction': predicted_emotion})
 
