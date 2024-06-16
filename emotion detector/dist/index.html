@@ -63,11 +63,11 @@ limitations under the License. -->
     face_features = []
     mfcc_features=[]
     setInterval(async()=>{
-      if(mfcc_features.length>625 && face_features.length>300 ){
+      if(mfcc_features.length>624 && face_features.length>300 ){
 
           predictEmotion()
     }
-},5000)
+},1000)
 
 
 async function predictEmotion() {
