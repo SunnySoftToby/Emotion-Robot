@@ -5,7 +5,7 @@ setlocal enabledelayedexpansion
 for /r "<影片資料夾位址>" %%f in (*.mp4) do (
     REM 獲得wav與資料夾編號
     for %%I in ("%%~pf.") do (
-        set "output_folder=<圖片輸出資料夾位址>\audios\%%~nxI"
+        set "output_folder=<WAV輸出資料夾位址>\audios\%%~nxI"
        
         echo output_folder
 
