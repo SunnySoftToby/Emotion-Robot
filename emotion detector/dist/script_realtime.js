@@ -1,9 +1,8 @@
 // /* globals Meyda */
-let audioContext = new (window.AudioContext || window.webkitAudioContext)();
 // const levelRangeElement = document.getElementById("levelRange");
 const bufferSize = 512; // 分析器的緩衝區大小
 const hopSize = 256; // 分析器的跳躍大小
-const numberOfMFCCCoefficients = 20; // MFCC的係數數量
+const numberOfMFCCCoefficients = 40; // MFCC的係數數量
 
 let mfcc_features = [];
 let allmfcc_features = [];
@@ -16,10 +15,13 @@ function convertToCSV(features) {
     const mfccData = features.mfcc.join(","); // 轉換為逗號分隔的字符串
     return mfccData;
 }
-let stream ;
 // 開始錄音
 async function startRecord(stream) {
     mfcc_features = [];
+    console.log(stream)
+
+    const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+
 
     const source = audioContext.createMediaStreamSource(stream);
 
@@ -32,11 +34,11 @@ async function startRecord(stream) {
         "hopSize": hopSize,
         "windowingFunction": "hanning",
         "callback": features => {
-            if (recording) {
+            // if (recording) {
                 // const mfccCSV = convertToCSV(features);
                 mfcc_features.push(features.mfcc);
                 console.log(features.mfcc)
-            }
+            // }
         }
     });
 
