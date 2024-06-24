@@ -44,6 +44,8 @@ async function startRecord(stream) {
 
     analyzer.start();
     recording = true;
+    console.log('取樣頻率：' + audioContext.sampleRate + ' Hz');
+
 }
 // startRecord();
 
@@ -56,5 +58,4 @@ async function startRecord(stream) {
 //     startRecord();
 // });
 
-console.log('取樣頻率：' + audioContext.sampleRate + ' Hz');
 
